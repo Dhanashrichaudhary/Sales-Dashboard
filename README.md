@@ -108,9 +108,4 @@ The dashboard can be used to identify:
 * Sales patterns across different periods.
 
 ## 📷 Dashboard Preview
-
-
-
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
+https://github.com/Dhanashrichaudhary/Sales-Dashboard/blob/main/sales.jpg
